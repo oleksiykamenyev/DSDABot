@@ -1,0 +1,8 @@
+Links to learn more about Discord bots and underlying python functionality used:
+    http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5
+    https://github.com/Rapptz/discord.py
+    https://github.com/SexualRhinoceros/MusicBot
+    https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+    https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+    http://discordpy.readthedocs.io/en/latest/index.html
+    https://discordapp.com/developers/docs/intro

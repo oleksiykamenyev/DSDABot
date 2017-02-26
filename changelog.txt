@@ -1,0 +1,9 @@
+0.1:
+ - Initial version
+0.2
+ - Update with new features in DSDA client
+ - Print DSDA/player names with stats
+ - Remove need to use quotes for wad and player names
+ - Add help command
+0.2.1
+ - Fix wait time for DSDA updates
